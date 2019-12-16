@@ -22,5 +22,41 @@ export const robots =[
 	name: 'Patricia Lebsack',
 	username: 'Karianne',
 	email: 'Julianne.OConner@kory.org'
+},
+{
+	id:5,
+	name: 'Abaddon',
+	username: 'baddon',
+	email: 'abaddon.dota2.org'
+},
+{
+	id:6,
+	name: 'Alchemist',
+	username: 'Chemist',
+	email: 'alchemist.dota2.org'
+},
+{
+	id:7,
+	name: 'Ancient Apparition',
+	username: 'Appa',
+	email: 'appa@dota2.org'
+},
+{
+	id:8,
+	name: 'Antimage',
+	username: 'antimago',
+	email: 'antimage@dota2.org'
+},
+{
+	id:9,
+	name: 'Arc Warded',
+	username: 'Warden',
+	email: 'arcwarden@dota2.org'
+},
+{
+	id:10,
+	name: 'Axe',
+	username: 'Xeeaa',
+	email: 'axe@dota2.org'
 }
 ]
